@@ -30,3 +30,16 @@ console.log(sum(2, 2));
 ```
 
 ---
+
+### Education:
+
+* **Institution:** Belarusian State University of Informatics and Radioelectronics
+* **Years:** 2018 - 2022
+
+---
+
+### Languages:
+
+* **Belarusian:** Native
+* **English:** A2+
+* **Russian** Native
