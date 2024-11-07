@@ -72,17 +72,27 @@ a {
 
 .about__myself,
 .skills,
-.code__example {
+.code__example,
+.education,
+.languages {
   margin-top: 10rem;
 }
 
 .text,
 .skills__list,
-.code__example pre {
+.code__example pre,
+.education__list,
+.languages__list {
   margin-top: 1.7rem;
   line-height: 1.5rem;
 }
 
-.skills__list {
+.skills__list,
+.education__list,
+.languages__list {
   list-style-type: circle;
+}
+
+.languages {
+  margin-bottom: 2rem;
 }
