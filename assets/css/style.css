@@ -22,7 +22,7 @@ a {
 }
 
 .container {
-  width: 75rem;
+  width: 45rem;
   margin: 0 auto;
 }
 
@@ -54,4 +54,27 @@ a {
 
 .personal__data {
   font-size: 3rem;
+}
+
+.contact {
+  margin-top: 2rem;
+  line-height: 1.5rem;
+}
+
+.contact__list {
+  margin-top: 1.5rem;
+}
+
+.section__title {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.about__myself {
+  margin-top: 10rem;
+}
+
+.text {
+  margin-top: 1.7rem;
+  line-height: 1.5rem;
 }
