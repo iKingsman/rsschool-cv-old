@@ -70,11 +70,19 @@ a {
   font-size: 2rem;
 }
 
-.about__myself {
+.about__myself,
+.skills,
+.code__example {
   margin-top: 10rem;
 }
 
-.text {
+.text,
+.skills__list,
+.code__example pre {
   margin-top: 1.7rem;
   line-height: 1.5rem;
+}
+
+.skills__list {
+  list-style-type: circle;
 }
